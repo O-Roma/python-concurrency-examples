@@ -43,74 +43,26 @@ cpu_thread.join()
 print("All threads have finished execution.")
 
 
-'''python basic_thread.py
-1742761829.7210 - NumberThread - Number: 1
-1742761829.7212 - LetterThread - Letter: Y
-1742761829.7216 - SymbolThread - Symbol: @
-1742761829.7217 - CPUThread - Heavy computation 1
-1742761829.7808 - CPUThread - Heavy computation 2
-1742761829.8504 - CPUThread - Heavy computation 3
-1742761829.9310 - CPUThread - Heavy computation 4
-1742761830.0055 - CPUThread - Heavy computation 5
-1742761830.9481 - LetterThread - Letter: H
-1742761831.0234 - NumberThread - Number: 2
-1742761831.0234 - SymbolThread - Symbol: #
-1742761829.7210 - NumberThread - Number: 1
-1742761829.7212 - LetterThread - Letter: Y
-1742761829.7216 - SymbolThread - Symbol: @
-1742761829.7217 - CPUThread - Heavy computation 1
-1742761829.7808 - CPUThread - Heavy computation 2
-1742761829.8504 - CPUThread - Heavy computation 3
-1742761829.9310 - CPUThread - Heavy computation 4
-1742761830.0055 - CPUThread - Heavy computation 5
-1742761830.9481 - LetterThread - Letter: H
-1742761831.0234 - NumberThread - Number: 2
-1742761831.0234 - SymbolThread - Symbol: #
-1742761829.7212 - LetterThread - Letter: Y
-1742761829.7216 - SymbolThread - Symbol: @
-1742761829.7217 - CPUThread - Heavy computation 1
-1742761829.7808 - CPUThread - Heavy computation 2
-1742761829.8504 - CPUThread - Heavy computation 3
-1742761829.9310 - CPUThread - Heavy computation 4
-1742761830.0055 - CPUThread - Heavy computation 5
-1742761830.9481 - LetterThread - Letter: H
-1742761831.0234 - NumberThread - Number: 2
-1742761831.0234 - SymbolThread - Symbol: #
-1742761829.7808 - CPUThread - Heavy computation 2
-1742761829.8504 - CPUThread - Heavy computation 3
-1742761829.9310 - CPUThread - Heavy computation 4
-1742761830.0055 - CPUThread - Heavy computation 5
-1742761830.9481 - LetterThread - Letter: H
-1742761831.0234 - NumberThread - Number: 2
-1742761831.0234 - SymbolThread - Symbol: #
-1742761829.8504 - CPUThread - Heavy computation 3
-1742761829.9310 - CPUThread - Heavy computation 4
-1742761830.0055 - CPUThread - Heavy computation 5
-1742761830.9481 - LetterThread - Letter: H
-1742761831.0234 - NumberThread - Number: 2
-1742761831.0234 - SymbolThread - Symbol: #
-1742761829.9310 - CPUThread - Heavy computation 4
-1742761830.0055 - CPUThread - Heavy computation 5
-1742761830.9481 - LetterThread - Letter: H
-1742761831.0234 - NumberThread - Number: 2
-1742761831.0234 - SymbolThread - Symbol: #
-1742761830.0055 - CPUThread - Heavy computation 5
-1742761830.9481 - LetterThread - Letter: H
-1742761831.0234 - NumberThread - Number: 2
-1742761831.0234 - SymbolThread - Symbol: #
-1742761830.9481 - LetterThread - Letter: H
-1742761831.0234 - NumberThread - Number: 2
-1742761831.0234 - SymbolThread - Symbol: #
-1742761831.0234 - NumberThread - Number: 2
-1742761831.0234 - SymbolThread - Symbol: #
-1742761832.1983 - NumberThread - Number: 3
-1742761832.1983 - NumberThread - Number: 3
-1742761832.1985 - SymbolThread - Symbol: $
-1742761832.2506 - LetterThread - Letter: W
-1742761833.3984 - NumberThread - Number: 4
-1742761833.3985 - SymbolThread - Symbol: %
-1742761833.5532 - LetterThread - Letter: H
-1742761834.5184 - NumberThread - Number: 5
-1742761834.7012 - SymbolThread - Symbol: ^
+'''
+python basic_thread.py
+1742770907.2760 - NumberThread - Number: 1
+1742770907.2790 - LetterThread - Letter: Y
+1742770907.2800 - SymbolThread - Symbol: @
+1742770907.2800 - CPUThread - Heavy computation 1
+1742770907.3877 - CPUThread - Heavy computation 2
+1742770907.4795 - CPUThread - Heavy computation 3
+1742770907.5989 - CPUThread - Heavy computation 4
+1742770907.7608 - CPUThread - Heavy computation 5
+1742770908.2823 - SymbolThread - Symbol: #
+1742770908.2840 - LetterThread - Letter: H
+1742770908.2840 - NumberThread - Number: 2
+1742770909.2949 - SymbolThread - Symbol: $1742770909.2949 - LetterThread - Letter: W
+1742770909.2949 - NumberThread - Number: 3
+
+1742770910.3046 - LetterThread - Letter: H
+1742770910.3064 - SymbolThread - Symbol: %
+1742770910.3064 - NumberThread - Number: 4
+1742770911.3115 - NumberThread - Number: 51742770911.3115 - SymbolThread - Symbol: ^
+
 All threads have finished execution.
 '''
