@@ -39,6 +39,5 @@ ENV/
 Thumbs.db
 
 # Project specific
-threading/mutex_example.py
 notes
 notes.md 
